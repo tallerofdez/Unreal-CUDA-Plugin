@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "UnrealCUDAPlugin",
+			"Path": "D:\\UnrealCUDAPlugin\\Source\\UnrealCUDAPlugin.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "UnrealCUDAPluginEditor",
+			"Path": "D:\\UnrealCUDAPlugin\\Source\\UnrealCUDAPluginEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

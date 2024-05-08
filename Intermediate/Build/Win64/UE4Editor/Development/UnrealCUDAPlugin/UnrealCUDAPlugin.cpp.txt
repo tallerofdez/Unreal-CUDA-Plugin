@@ -1,0 +1,2 @@
+D:\UnrealCUDAPlugin\Intermediate\Build\Win64\UE4Editor\Development\UnrealCUDAPlugin\Definitions.UnrealCUDAPlugin.h
+D:\UnrealCUDAPlugin\Source\UnrealCUDAPlugin\UnrealCUDAPlugin.h

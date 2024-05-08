@@ -1,0 +1,6 @@
+﻿  Compiling CUDA source file cuda_lib_test.cu...
+  
+  D:\UnrealCUDAPlugin\cuda_lib_test\cuda_lib_test>"C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v12.1\bin\nvcc.exe" -gencode=arch=compute_52,code=\"sm_52,compute_52\" --use-local-env -ccbin "C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\bin\HostX86\x64" -x cu   -I"C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v12.1\include" -I"C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v12.1\include"     --keep-dir x64\Release  -maxrregcount=0   --machine 64 --compile -cudart static    -Ddll_EXPORTS -DWIN32 -DWIN64 -DNDEBUG -D_CONSOLE -D_MBCS -Xcompiler "/EHsc /W3 /nologo /O2 /FS   /MD " -Xcompiler "/FdD:\UnrealCUDAPlugin\cuda_lib_test\x64\Release\cuda_lib_test.pdb" -o D:\UnrealCUDAPlugin\cuda_lib_test\cuda_lib_test\x64\Release\cuda_lib_test.cu.obj "D:\UnrealCUDAPlugin\cuda_lib_test\cuda_lib_test\cuda_lib_test.cu" 
+  cuda_lib_test.cu
+  tmpxft_0000736c_00000000-7_cuda_lib_test.cudafe1.cpp
+  cuda_lib_test.vcxproj -> D:\UnrealCUDAPlugin\cuda_lib_test\x64\Release\cuda_lib_test.lib

@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\UnrealCUDAPlugin.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{7DC50F66-B90E-4AC2-822C-3E593D48ED23}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\UnrealCUDAPlugin.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\UnrealCUDAPluginEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{02ED03F1-088A-4644-8427-7657C03069B0}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\UnrealCUDAPlugin">
+      <UniqueIdentifier>{EB9B4CFE-31EC-46DF-92F1-F280789B8773}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\UnrealCUDAPlugin\UnrealCUDAPlugin.Build.cs">
+      <Filter>Source\UnrealCUDAPlugin</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\UnrealCUDAPlugin\UnrealCUDAPlugin.cpp">
+      <Filter>Source\UnrealCUDAPlugin</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\UnrealCUDAPlugin\UnrealCUDAPlugin.h">
+      <Filter>Source\UnrealCUDAPlugin</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\UnrealCUDAPlugin\UnrealCUDAPluginGameModeBase.cpp">
+      <Filter>Source\UnrealCUDAPlugin</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\UnrealCUDAPlugin\UnrealCUDAPluginGameModeBase.h">
+      <Filter>Source\UnrealCUDAPlugin</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

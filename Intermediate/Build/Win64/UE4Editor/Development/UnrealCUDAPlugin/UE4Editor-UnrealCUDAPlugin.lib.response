@@ -1,0 +1,17 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-UnrealCUDAPlugin.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\UnrealCUDAPlugin\Intermediate\Build\Win64\UnrealCUDAPluginEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"D:\UnrealCUDAPlugin\Intermediate\Build\Win64\UE4Editor\Development\UnrealCUDAPlugin\MyActor.cpp.obj"
+"D:\UnrealCUDAPlugin\Intermediate\Build\Win64\UE4Editor\Development\UnrealCUDAPlugin\UnrealCUDAPlugin.cpp.obj"
+"D:\UnrealCUDAPlugin\Intermediate\Build\Win64\UE4Editor\Development\UnrealCUDAPlugin\UnrealCUDAPluginGameModeBase.cpp.obj"
+"D:\UnrealCUDAPlugin\Intermediate\Build\Win64\UE4Editor\Development\UnrealCUDAPlugin\MyActor.gen.cpp.obj"
+"D:\UnrealCUDAPlugin\Intermediate\Build\Win64\UE4Editor\Development\UnrealCUDAPlugin\UnrealCUDAPlugin.init.gen.cpp.obj"
+"D:\UnrealCUDAPlugin\Intermediate\Build\Win64\UE4Editor\Development\UnrealCUDAPlugin\UnrealCUDAPluginGameModeBase.gen.cpp.obj"
+"D:\UnrealCUDAPlugin\Intermediate\Build\Win64\UE4Editor\Development\UnrealCUDAPlugin\Default.rc2.res"
+/OUT:"D:\UnrealCUDAPlugin\Intermediate\Build\Win64\UE4Editor\Development\UnrealCUDAPlugin\UE4Editor-UnrealCUDAPlugin.lib"

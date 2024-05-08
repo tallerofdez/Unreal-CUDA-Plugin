@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"D:\\UnrealCUDAPlugin\\Source\\UnrealCUDAPlugin\\UnrealCUDAPlugin.Build.cs",
+		"D:\\UnrealCUDAPlugin\\Source\\UnrealCUDAPlugin.Target.cs",
+		"D:\\UnrealCUDAPlugin\\Source\\UnrealCUDAPluginEditor.Target.cs"
+	],
+	"EngineVersion": "4.27.2"
+}
